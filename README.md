@@ -1,1 +1,1 @@
-# click-circle-game.html
+index.html
